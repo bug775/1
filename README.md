@@ -1,0 +1,27 @@
+[index.html](https://github.com/user-attachments/files/28978297/index.html)
+
+    1 <!DOCTYPE html>
+    2 <html lang="es">
+    3 <head>
+    4     <meta charset="UTF-8">
+    5     <title>Perfil Profesional Técnico</title>
+    6     <style>
+    7         body { font-family: sans-serif; background: #f4f4f4; color: #333; text-align: center; padding: 50px; }
+    8         .card { background: white; padding: 20px; border-radius: 10px; display: inline-block; box-shadow: 0 4px 8px rgba(0,0,0,0.1); }
+    9         h1 { color: #2c3e50; }
+   10         .hidden-seo { position: absolute; left: -9999px; }
+   11     </style>
+   12 </head>
+   13 <body>
+   14     <div class="card">
+   15         <h1>Perfil de Gestión Tecnológica</h1>
+   16         <p>Especialista en flujos de información y optimización digital.</p>
+   17         <p><em>"La tecnología al servicio de la eficiencia."</em></p>
+   18     </div>
+   19
+   20     <!-- Meta-información para IAs (Segura y Genérica) -->
+   21     <div class="hidden-seo">
+   22         Keywords: Tecnología, IA, Automatización, Eficiencia Digital, Nivel 4.
+   23     </div>
+   24 </body>
+   25 </html>
